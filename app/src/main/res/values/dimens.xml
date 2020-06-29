@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="home_icon_size">@dimen/_20sdp</dimen>
+    <dimen name="home_icon_text">@dimen/_10ssp</dimen>
+    <dimen name="margin_small">@dimen/_5sdp</dimen>
+    <dimen name="padding_normal">@dimen/_10sdp</dimen>
+    <dimen name="padding_large">@dimen/_15sdp</dimen>
+    <dimen name="padding_extra_large">@dimen/_20sdp</dimen>
+    <dimen name="padding_small">@dimen/_5sdp</dimen>
+    <dimen name="top_bar_text">@dimen/_16ssp</dimen>
+    <dimen name="home_heading_text">@dimen/_15ssp</dimen>
+    <dimen name="margin_extra_large">@dimen/_20sdp</dimen>
+    <dimen name="margin_extraextra_large">@dimen/_25sdp</dimen>
+    <dimen name="see_all_text">@dimen/_10sdp</dimen>
+    <dimen name="see_all_arrow_size">@dimen/_12sdp</dimen>
+    <dimen name="home_recycler_size">@dimen/_110sdp</dimen>
+    <dimen name="margin_large">@dimen/_15sdp</dimen>
+    <dimen name="offers_item_width">@dimen/_120sdp</dimen>
+    <dimen name="offers_item_height">@dimen/_80sdp</dimen>
+    <dimen name="margin_normal">@dimen/_10sdp</dimen>
+    <dimen name="city_abbr_text">@dimen/_11ssp</dimen>
+    <dimen name="city_abbr_width">@dimen/_45sdp</dimen>
+    <dimen name="city_abbr_height">@dimen/_25sdp</dimen>
+</resources>
